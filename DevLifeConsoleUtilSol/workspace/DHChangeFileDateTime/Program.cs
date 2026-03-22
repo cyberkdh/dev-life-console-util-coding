@@ -160,6 +160,9 @@ namespace DHChangeFileDateTime {
 
 			Console.WriteLine();
 			Console.WriteLine();
+
+			Console.WriteLine("Press enter key to exit");
+			Console.ReadLine();
 		}
 	}
 }
