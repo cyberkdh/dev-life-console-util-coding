@@ -1,0 +1,13 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/appcommon/">
+    <Project Path="appcommon/DHConAppCommon.NET/DHConAppCommon.NET.csproj" Id="c57bc3b0-dc07-4aba-b4ed-5c1e5526d38c" />
+  </Folder>
+  <Folder Name="/workspace/">
+    <Project Path="workspace/DHChangeFileDateTime/DHChangeFileDateTime.csproj" Id="d78cbd48-bc39-4b03-a3d5-3a59087b3362" />
+  </Folder>
+</Solution>
