@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DevLifeConsoleUtilSol/.vs/DevLifeConsoleUtilSol.slnx
+/DevLifeConsoleUtilSol/appcommon/DHConAppCommon.NET/bin
+/DevLifeConsoleUtilSol/appcommon/DHConAppCommon.NET/obj
+/DevLifeConsoleUtilSol/output
+/DevLifeConsoleUtilSol/workspace/DHChangeFileDateTime/bin/Debug
+/DevLifeConsoleUtilSol/workspace/DHChangeFileDateTime/obj
